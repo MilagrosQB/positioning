@@ -1,0 +1,23 @@
+body {
+	margin:0px;
+	padding:0px;
+}
+.bloque-rojo{
+	width: 200px;
+	height: 200px;
+	background:#EE3E64;
+	position: static;
+}
+.bloque-azul{
+	width: 200px;
+	height: 200px;
+	background:#44ACCF;
+	position: static;
+	
+}
+.bloque-verde{
+	width: 200px;
+	height: 200px;
+	background:#B7D84B;
+	position: static;
+}
